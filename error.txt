@@ -1,7 +1,0 @@
-ocket.IO connected: SDUCWd6c7NB8NN_8AAAN
- ERROR  Token refresh failed: [Error: Invalid value provided to SecureStore. Values must be strings; consider JSON-encoding your values if they are serializable.]
- ERROR  Fetch Data Error: [AxiosError: Request failed with status code 401]
- ERROR  Failed to fetch dashboard data in AuthContext: [Error: Invalid value provided to SecureStore. Values must be strings; consider JSON-encoding your values if they are serializable.]     
- LOG  [MOBILE HMAC DEBUG] Generated signature: 9743f0851974943ce02ef4be29868f32419c2538ff24337ec0b710d379520a5a
- ERROR  Token refresh failed: [Error: No refresh token available. Please log in.]
- ERROR  Failed to fetch ticket history: [AxiosError: Request failed with status code 401]

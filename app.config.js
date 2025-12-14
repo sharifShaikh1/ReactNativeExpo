@@ -2,8 +2,8 @@ import 'dotenv/config';
 
 export default {
   expo: {
-    name: "Net Covet TT",
-    slug: "mobile-app",
+    name: "",
+    slug: "",
     version: "1.0.0",
     orientation: "portrait",
     icon: "./assets/logo.png",
@@ -16,7 +16,7 @@ export default {
     },
     ios: {
       supportsTablet: true,
-      bundleIdentifier: "com.netcovet.tt",
+      bundleIdentifier: "",
       infoPlist: {
         NSLocationWhenInUseUsageDescription: "This app uses your location to track your progress to the job site.",
         NSLocationAlwaysAndWhenInUseUsageDescription: "This app uses your location to track your progress to the job site, even when the app is in the background.",

@@ -25,7 +25,7 @@ export const LOCATION_CONFIG = {
   
   // Foreground service notification for Android
   foregroundService: {
-    notificationTitle: 'Net Covet TT Tracking Active',
+    notificationTitle: 'Active',
     notificationBody: 'Your location is being tracked for the active ticket.',
     notificationColor: '#2196F3',
   },
